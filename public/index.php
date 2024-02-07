@@ -15,6 +15,8 @@ $carts = new CartsController;
 $fetchCarts = $carts->fetchCarts(1);
 print_r($fetchCarts);
 
+# added a comment to the index
+
 // $fetchCarts = 
 
 // echo $discount->calculateDiscount(25000, 20);
